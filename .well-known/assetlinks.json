@@ -1,0 +1,11 @@
+[{
+  "relation": 
+["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.devlomi.fireapp",
+    "sha256_cert_fingerprints":
+    
+["B8:A9:F6:DC:9A:80:B2:42:D6:07:4F:B7:DA:38:9D:25:D8:77:33:DA:B6:4E:2C:2E:4C:AC:34:52:B4:68:8C:F1"]
+  }
+}]
